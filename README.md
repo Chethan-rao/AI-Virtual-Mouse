@@ -1,7 +1,6 @@
 # AI-Virtual-Mouse
 
-
-   OPERATION               GESTURES
+Guide
 
 1. Move curser--------Index finger (up)
 
